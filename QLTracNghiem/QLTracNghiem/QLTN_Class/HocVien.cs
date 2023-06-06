@@ -1,8 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-public class HocVien
+namespace QLTracNghiem.QLTN_Class
 {
-	public HocVien()
-	{
-	}
+    internal class HocVien
+    {
+    }
 }
