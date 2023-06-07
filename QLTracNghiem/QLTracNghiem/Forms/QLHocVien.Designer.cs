@@ -39,8 +39,6 @@
             this.btnXoaHV = new System.Windows.Forms.Button();
             this.btnSuaHV = new System.Windows.Forms.Button();
             this.btnThemHV = new System.Windows.Forms.Button();
-            this.rbtnNu = new System.Windows.Forms.RadioButton();
-            this.rbtnNam = new System.Windows.Forms.RadioButton();
             this.label8 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.txtSDTHV = new System.Windows.Forms.TextBox();
@@ -51,6 +49,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.txtMaHV = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.txtGioiTinh = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -104,10 +103,9 @@
             this.groupBox1.Controls.Add(this.btnXoaHV);
             this.groupBox1.Controls.Add(this.btnSuaHV);
             this.groupBox1.Controls.Add(this.btnThemHV);
-            this.groupBox1.Controls.Add(this.rbtnNu);
-            this.groupBox1.Controls.Add(this.rbtnNam);
             this.groupBox1.Controls.Add(this.label8);
             this.groupBox1.Controls.Add(this.label6);
+            this.groupBox1.Controls.Add(this.txtGioiTinh);
             this.groupBox1.Controls.Add(this.txtSDTHV);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.txtDiaChiHV);
@@ -182,30 +180,7 @@
             this.btnThemHV.TabIndex = 3;
             this.btnThemHV.Text = "Thêm";
             this.btnThemHV.UseVisualStyleBackColor = true;
-            // 
-            // rbtnNu
-            // 
-            this.rbtnNu.AutoSize = true;
-            this.rbtnNu.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbtnNu.Location = new System.Drawing.Point(265, 338);
-            this.rbtnNu.Name = "rbtnNu";
-            this.rbtnNu.Size = new System.Drawing.Size(56, 24);
-            this.rbtnNu.TabIndex = 2;
-            this.rbtnNu.TabStop = true;
-            this.rbtnNu.Text = "Nữ";
-            this.rbtnNu.UseVisualStyleBackColor = true;
-            // 
-            // rbtnNam
-            // 
-            this.rbtnNam.AutoSize = true;
-            this.rbtnNam.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rbtnNam.Location = new System.Drawing.Point(148, 338);
-            this.rbtnNam.Name = "rbtnNam";
-            this.rbtnNam.Size = new System.Drawing.Size(70, 24);
-            this.rbtnNam.TabIndex = 2;
-            this.rbtnNam.TabStop = true;
-            this.rbtnNam.Text = "Nam";
-            this.rbtnNam.UseVisualStyleBackColor = true;
+            this.btnThemHV.Click += new System.EventHandler(this.btnThemHV_Click);
             // 
             // label8
             // 
@@ -299,6 +274,14 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "Mã Học Viên:";
             // 
+            // txtGioiTinh
+            // 
+            this.txtGioiTinh.Location = new System.Drawing.Point(147, 337);
+            this.txtGioiTinh.Multiline = true;
+            this.txtGioiTinh.Name = "txtGioiTinh";
+            this.txtGioiTinh.Size = new System.Drawing.Size(244, 28);
+            this.txtGioiTinh.TabIndex = 1;
+            // 
             // QLHocVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -308,6 +291,7 @@
             this.Controls.Add(this.label1);
             this.Name = "QLHocVien";
             this.Text = "QLHocVien";
+            this.Load += new System.EventHandler(this.QLHocVien_Load);
             this.panel1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox1.ResumeLayout(false);
@@ -334,13 +318,12 @@
         private System.Windows.Forms.TextBox txtTenHV;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtMaHV;
-        private System.Windows.Forms.RadioButton rbtnNu;
-        private System.Windows.Forms.RadioButton rbtnNam;
         private System.Windows.Forms.Button btnThoatHV;
         private System.Windows.Forms.Button btnTiepTucHV;
         private System.Windows.Forms.Button btnXoaHV;
         private System.Windows.Forms.Button btnSuaHV;
         private System.Windows.Forms.Button btnThemHV;
         private System.Windows.Forms.ComboBox cmbTenLop_HocVien;
+        private System.Windows.Forms.TextBox txtGioiTinh;
     }
 }

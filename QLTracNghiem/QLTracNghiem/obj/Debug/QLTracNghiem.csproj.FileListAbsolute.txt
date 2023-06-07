@@ -17,3 +17,22 @@ C:\Users\ADMIN\OneDrive\Máy tính\QLTracNghiem\QLTracNghiem\QLTracNghiem\obj\De
 C:\Users\ADMIN\OneDrive\Máy tính\QLTracNghiem\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.FThiThu.resources
 C:\Users\ADMIN\OneDrive\Máy tính\QLTracNghiem\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.FLamBaiThi.resources
 C:\Users\ADMIN\OneDrive\Máy tính\QLTracNghiem\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.FXemKQ.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\bin\Debug\QLTracNghiem.exe.config
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\bin\Debug\QLTracNghiem.exe
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\bin\Debug\QLTracNghiem.pdb
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.FLamBaiThi.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.FTaoDeThi.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.FThiThu.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.FXemKQ.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.MenuCT.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.QLHocVien.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.QLLopHoc.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.QLMon.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Forms.QLYCauHoi.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.Properties.Resources.resources
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.csproj.GenerateResource.cache
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.exe
+C:\Users\ADMIN\Source\Repos\TanHieu251\detaicuoiki_CSLT\QLTracNghiem\QLTracNghiem\obj\Debug\QLTracNghiem.pdb
